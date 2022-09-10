@@ -1,5 +1,5 @@
-siteTitle: "News | Praveen Juge"
-cacheUrl: https://praveenjuge.github.io/feed-reader/cache.json
+siteTitle: "News | Alec Campbell"
+cacheUrl: https://abc-feed-reader.vercel.app/abc-feed-reader/cache.json
 sources:
   - href: https://accessible-digital-documents.com/feed/
   - href: https://adactio.com/articles/rss
